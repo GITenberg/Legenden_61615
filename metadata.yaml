@@ -1,5 +1,5 @@
 _repo: Legenden_61615
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Gumppenberg, Hanns von
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Hoyer, Niels
     gutenberg_agent_id: '51520'
     url: http://www.gutenberg.org/2009/agents/51520
+covers:
+- cover_type: archival
+  image_path: 61615-h/images/cover.jpg
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -22,6 +25,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
     - https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61615#Legenden
 gutenberg_issued: '2020-03-14'
 gutenberg_type: Text
 identifiers:
