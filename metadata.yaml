@@ -1,0 +1,36 @@
+_repo: Legenden_61615
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Gumppenberg, Hanns von
+    gutenberg_agent_id: '51521'
+    url: http://www.gutenberg.org/2009/agents/51521
+  - agent_name: Hoyer, Niels
+    gutenberg_agent_id: '51520'
+    url: http://www.gutenberg.org/2009/agents/51520
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Bjornson, Bjornstjerne
+    - Björnson, Björnstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+    - https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2020-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61615'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Legenden
+url: http://www.gutenberg.org/ebooks/61615
